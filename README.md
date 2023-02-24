@@ -239,9 +239,8 @@ Offset: 0
 
 ##Contributers
 * [Minhajshaikh321 ( Lead. Coordinator )](https://github.com/Minhajshaikh321)
-* [Juned Chaudhary](https://github.com/jcjunaidchaudhary))
+* [jcjunaidchaudhary](https://github.com/jcjunaidchaudhary)
 
 
 
-Project Developed at Center of Excellence, SriGuru Institute of Technology
 
