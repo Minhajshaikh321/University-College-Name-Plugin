@@ -238,7 +238,7 @@ Offset: 0
 
 
 ##Contributers
-* [Minhajshaikh321 ( Lead. Coordinator )](https://github.com/Minhajshaikh321)
+* [Minhajshaikh321 ](https://github.com/Minhajshaikh321)
 * [jcjunaidchaudhary](https://github.com/jcjunaidchaudhary)
 
 
